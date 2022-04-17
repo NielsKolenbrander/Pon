@@ -1,9 +1,11 @@
 {
-    "userdata": {
+    "users": [
+    {
         "id": 1,
         "username": "Niels",
         "age": 20
-    },
+    }
+    ],
     "sabers": [
     {
       "id": 123,
