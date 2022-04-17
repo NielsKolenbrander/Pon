@@ -1,0 +1,40 @@
+{
+    "sabers": [
+    {
+      "id": 123,
+      "name": "Darth Zeger",
+      "stock": 25,
+      "crystal": {
+        "name": "Ilum crystal",
+        "color": "Rood",
+        "planet": 28,
+        "power": 20,
+        "cr": 101
+      }
+    },
+    {
+      "id": 234,
+      "name": "Cobra Kay",
+      "stock": 15,
+      "crystal": {
+        "name": "Dantooine crystal",
+        "color": "Blauw",
+        "planet": 25,
+        "power": 19,
+        "cr": 10
+      }
+    },
+    {
+      "id": 345,
+      "name": "Kees Windu",
+      "stock": 5,
+      "crystal": {
+        "name": "Dagobah crystal",
+        "color": "Groen",
+        "planet": 5,
+        "power": 22,
+        "cr": 37
+      }
+    }
+  ]
+}
