@@ -3,13 +3,13 @@
     {
         "id": 1,
         "username": "Niels",
-        "age": 20
+        "age": 34
     }
     ],
     "sabers": [
     {
       "id": 123,
-      "name": "Darth Zeger",
+      "name": "Darth Saber",
       "stock": 25,
       "crystal": {
         "name": "Ilum crystal",
@@ -21,7 +21,7 @@
     },
     {
       "id": 234,
-      "name": "Cobra Kay",
+      "name": "Blue Saber",
       "stock": 15,
       "crystal": {
         "name": "Dantooine crystal",
@@ -33,7 +33,7 @@
     },
     {
       "id": 345,
-      "name": "Kees Windu",
+      "name": "Green Saber",
       "stock": 5,
       "crystal": {
         "name": "Dagobah crystal",
