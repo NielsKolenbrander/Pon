@@ -13,7 +13,7 @@
       "stock": 25,
       "crystal": {
         "name": "Ilum crystal",
-        "color": "Rood",
+        "color": "FF0000",
         "planet": 28,
         "power": 20,
         "cr": 101
@@ -25,7 +25,7 @@
       "stock": 15,
       "crystal": {
         "name": "Dantooine crystal",
-        "color": "Blauw",
+        "color": "0000FF",
         "planet": 25,
         "power": 19,
         "cr": 10
@@ -37,7 +37,7 @@
       "stock": 5,
       "crystal": {
         "name": "Dagobah crystal",
-        "color": "Groen",
+        "color": "00FF00",
         "planet": 5,
         "power": 22,
         "cr": 37
@@ -58,7 +58,7 @@
         "stock": 25,
         "crystal": {
             "name": "Ilum crystal",
-            "color": "Rood",
+            "color": "FF0000",
             "planet": 28,
             "power": 20,
             "cr": 101
@@ -78,7 +78,7 @@
         "stock": 25,
         "crystal": {
             "name": "Ilum crystal",
-            "color": "Rood",
+            "color": "FF0000",
             "planet": 28,
             "power": 20,
             "cr": 101
