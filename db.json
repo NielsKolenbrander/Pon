@@ -8,7 +8,7 @@
     ],
     "sabers": [
     {
-      "id": 123,
+      "id": 11,
       "name": "Darth Saber",
       "stock": 25,
       "crystal": {
@@ -20,7 +20,7 @@
       }
     },
     {
-      "id": 234,
+      "id": 22,
       "name": "Blue Saber",
       "stock": 15,
       "crystal": {
@@ -32,7 +32,7 @@
       }
     },
     {
-      "id": 345,
+      "id": 33,
       "name": "Green Saber",
       "stock": 5,
       "crystal": {
@@ -41,6 +41,48 @@
         "planet": 5,
         "power": 22,
         "cr": 37
+      }
+    }
+  ],
+  "orders": [
+  {
+    "id": 222,
+    "user": {
+        "id": "2",
+        "name": "Kees",
+        "age": 28
+    },
+    "saber": {
+        "id": 11,
+        "name": "Darth Saber",
+        "stock": 25,
+        "crystal": {
+            "name": "Ilum crystal",
+            "color": "Rood",
+            "planet": 28,
+            "power": 20,
+            "cr": 101
+        }
+      }
+    },
+    {
+    "id": 111,
+    "user": {
+        "id": "1",
+        "name": "Niels",
+        "age": 34
+    },
+    "saber": {
+        "id": 11,
+        "name": "Darth Saber",
+        "stock": 25,
+        "crystal": {
+            "name": "Ilum crystal",
+            "color": "Rood",
+            "planet": 28,
+            "power": 20,
+            "cr": 101
+        }
       }
     }
   ]
