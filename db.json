@@ -11,7 +11,6 @@
       "id": 11,
       "name": "Darth Saber",
       "stock": 25,
-      "image": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/2359YH/d5dc5fcdf8dd4fa6bc6249cc0d191230.jpg/f/star-wars-role-play-red-electronic-lightsaber-darth-vader-e3997.jpg",
       "crystal": {
         "name": "Ilum crystal",
         "color": "#FF0000",
@@ -24,7 +23,6 @@
       "id": 22,
       "name": "Blue Saber",
       "stock": 15,
-      "image": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/2359YJ/df3cbd2444ab41eb9316cf581b75d2dd.jpg/f/star-wars-role-play-blue-electronic-lightsaber-rey-e6166.jpg",
       "crystal": {
         "name": "Dantooine crystal",
         "color": "#0000FF",
@@ -37,7 +35,6 @@
       "id": 33,
       "name": "Green Saber",
       "stock": 5,
-      "image": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/2359YG/190a066f388f4cb1b7a0917aa2dd32db.jpg/f/star-wars-role-play-green-electronic-lightsaber-luke-skywalker-e3996.jpg",
       "crystal": {
         "name": "Dagobah crystal",
         "color": "#00FF00",
@@ -45,6 +42,40 @@
         "power": 22,
         "cr": 37
       }
+    },
+    {
+      "id": 44,
+      "name": "Yellow Saber",
+      "stock": 3,
+      "crystal": {
+        "name": "Tatooine crystal",
+        "color": "#FFFF00",
+        "planet": 1,
+        "power": 25,
+        "cr": 30
+    },
+    {
+      "id": 55,
+      "name": "Purple Saber",
+      "stock": 20,
+      "crystal": {
+        "name": "Jackson crystal",
+        "color": "#800080",
+        "planet": 3,
+        "power": 35,
+        "cr": 87
+      },
+      {
+        "id": 66,
+        "name": "Orange Saber",
+        "stock": 1,
+        "crystal": {
+            "name": "Dutch crystal",
+            "color": "#FFA500",
+            "planet": 13,
+            "power": 40,
+            "cr": 17
+        }
     }
   ],
   "orders": [
