@@ -53,6 +53,7 @@
         "planet": 1,
         "power": 25,
         "cr": 30
+      }
     },
     {
       "id": 55,
@@ -64,8 +65,9 @@
         "planet": 3,
         "power": 35,
         "cr": 87
-      },
-      {
+      }
+     },
+     {
         "id": 66,
         "name": "Orange Saber",
         "stock": 1,
